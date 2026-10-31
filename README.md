@@ -1,4 +1,4 @@
-Hello there, it's kinda cold out here, no?
+Hey, it's kinda cold out here, no?
 
 My home's at [ctn.sh](https://ctn.sh). There isn't really much there but at least it's something :)
 
