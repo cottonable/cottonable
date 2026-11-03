@@ -16,4 +16,4 @@ Here are some stats:
 <img src="https://skillicons.dev/icons?i=idea,git" />
 
 ## Want to learn:
-<img src="https://skillicons.dev/icons?perline=8&i=js,ts,dart,flutter,kotlin,nim,zig" />
+<img src="https://skillicons.dev/icons?perline=8&i=js,ts,dart,flutter,kotlin" />
